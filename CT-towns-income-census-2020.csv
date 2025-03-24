@@ -1,11 +1,4 @@
-Place,Type,County,"Planning
-Region","Per capita
-income","Median
-household
-income","Median
-family
-income",Population,"Number of
-households"
+Place,Type,County,"Planning Region","Per capita income","Median household income","Median family income",Population,"Number of households"
 New Canaan,Town,Fairfield,Western CT,"$105,846 ","$174,611 ","$211,875 ","19,738","6,857"
 Darien,Town,Fairfield,Western CT,"$105,846 ","$208,848 ","$343,456 ","20,732","6,555"
 Greenwich,Town,Fairfield,Western CT,"$90,087 ","$128,153 ","$167,825 ","61,171","22,083"
